@@ -1,0 +1,5 @@
+{
+  "name": "RAG ScrapeMaster Pro - VSS Edition",
+  "description": "Enterprise-grade RAG dashboard with Redis Vector Similarity Search and isolated organization data pipelines.",
+  "requestFramePermissions": []
+}
